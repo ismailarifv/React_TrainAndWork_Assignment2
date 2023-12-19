@@ -96,7 +96,7 @@ function Wishling() {
                             </div>
                           </td>
                           <td className="stock-status">
-                            <span className="stock-stat-message">IN STOCK</span>
+                            <span className={`${item.stock>1 ? " stock-stat-message " : "stock-stat-message stock-stat-message--out-of-stock"} ` }>{item.stock > 1 ? "In Stock":"Out Stock"}</span>
                           </td>
                           <td className="add-to-cart">
                             <button
