@@ -63,11 +63,7 @@ function Header() {
                                   
                                     <div className="header-icon d-flex align-items-center">
                                         <ul className="header-icon__list">
-                                            <li>
-                                                <a id="search-icon">
-                                                    <i className="fa fa-search" />
-                                                </a>
-                                            </li>
+                                            
                                             <li>
                                                 <Link to={"/wishling"}>
                                                     <i className="fa fa-heart-o" />

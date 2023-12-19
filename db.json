@@ -159,5 +159,13 @@
   ],
   "orders": [],
   "favorites": [],
-  "messages": []
+  "messages": [
+    {
+      "name": "asdf",
+      "email": "adsf",
+      "subject": "asdf",
+      "message": "asdf",
+      "id": 1
+    }
+  ]
 }

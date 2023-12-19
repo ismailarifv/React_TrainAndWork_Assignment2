@@ -188,14 +188,7 @@ function ProductDetail() {
                                         </button>
                                     </div>
                                     <div className="quick-view-other-info">
-                                        <div className="other-info-links">
-                                            <a href="javascript:void(0)">
-                                                <i className="fa fa-heart-o" /> ADD TO WISHLIST
-                                            </a>
-                                            <a href="javascript:void(0)">
-                                                <i className="fa fa-exchange" /> COMPARE
-                                            </a>
-                                        </div>
+                                        
                                         <div className="product-brand">
                                             <a href="shop-left-sidebar.html">
                                                 <img

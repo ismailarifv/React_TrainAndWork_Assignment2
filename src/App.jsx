@@ -4,8 +4,8 @@ import Home from './pages/homePage/Home'
 import Header from './components/header/Header'
 import { Route, Routes } from 'react-router-dom'
 import Footer from './components/footer/Footer'
-import AboutUs from './pages/aboutPage/About'
-import ContackUs from './pages/contactPage/Contact'
+import About from './pages/aboutPage/About'
+import Contact from './pages/contactPage/Contact'
 import Cart from './pages/cartPage/Cart'
 import Wishling from './pages/wishlingPage/Wishling'
 import Checkout from './pages/checkoutPage/Checkout'
@@ -21,8 +21,8 @@ function App() {
             <Header />
             <Routes>
                 <Route path='/' element={<Home />} />
-                <Route path='about-us' element={<AboutUs />} />
-                <Route path='contack-us' element={<ContackUs />} />
+                <Route path='about-us' element={<About />} />
+                <Route path='contack-us' element={<Contact />} />
                 <Route path='blog' element={<Blog />} />
                 <Route path='blog-detail/:slug' element={<BlogDetail />} />
                 <Route path='cart' element={<Cart />} />
