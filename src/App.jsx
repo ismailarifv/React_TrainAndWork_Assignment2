@@ -9,7 +9,7 @@ import Contact from './pages/contactPage/Contact'
 import Cart from './pages/cartPage/Cart'
 import Wishling from './pages/wishlingPage/Wishling'
 import Checkout from './pages/checkoutPage/Checkout'
-import Ordertracking from './pages/orderTrackingPage/Ordertracking'
+
 import ProductDetail from './pages/productDetailPage/ProductDetail'
 import Blog from './pages/blogTwoCloumnsPage/Blog'
 import BlogDetail from './pages/blogDetailPage/BlogDetail'
@@ -28,7 +28,6 @@ function App() {
                 <Route path='cart' element={<Cart />} />
                 <Route path='wishling' element={<Wishling />} />
                 <Route path='checkout' element={<Checkout />} />
-                <Route path='order-tracking' element={<Ordertracking />} />
                 <Route path='product-detail/:slug' element={<ProductDetail />} />
             </Routes>
             <Footer />
