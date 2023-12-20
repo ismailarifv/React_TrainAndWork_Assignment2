@@ -159,30 +159,30 @@
   ],
   "orders": [
     {
-      "orderId": "7e590a0f-aec6",
-      "firstName": "asdf",
-      "lastName": "asdfasdf",
-      "email": "asdfadsf",
-      "phone": "adsfadsf",
-      "companyName": "asd",
-      "address1": "fsafasdfas",
-      "address2": "asdfasd",
-      "country": "China",
-      "city": "sadfadsf",
-      "state": "asdfasdfas",
-      "zipCode": "sadfasdf",
+      "orderId": "d1d6952f-130a",
+      "firstName": "<c<zx",
+      "lastName": "afasdf",
+      "email": "sdafsadf",
+      "phone": "sadfafadsf",
+      "companyName": "asdfasdf",
+      "address1": "asdfasdf",
+      "address2": "asdfadsf",
+      "country": "India",
+      "city": "sadfsadf",
+      "state": "sadfsadf",
+      "zipCode": "sdafasdf",
       "cart": [
         {
-          "id": "2",
+          "id": "4",
           "desc": "Upholstered velvet ottoman with antique stud detailing. Invite restrained glamour and on-trend colour into your design scheme with the Eichholtz Ponti Ottoman. Inspired by the neo-classical influences of Italian icon, Gio Ponti, this contemporary ottoman collection is presented in a choice of velvet and linen colourways.",
           "categoryId": "1",
-          "slug": "Jane-Lauren-Design-Chair",
-          "name": "Jane Lauren Design Chair",
-          "price": "160",
-          "stock": 5,
+          "slug": "Candice-Desk-Lamp",
+          "name": "Candice Desk Lamp",
+          "price": "145",
+          "stock": 0,
           "img": [
-            "src/assets/img/products/product-11-1-270x360.jpg",
-            "src/assets/img/products/product-11-2-270x360.jpg"
+            "src/assets/img/products/product-13-1-270x360.jpg",
+            "src/assets/img/products/product-13-2-270x360.jpg"
           ],
           "quantity": 1
         }
@@ -191,19 +191,6 @@
     }
   ],
   "favorites": [
-    {
-      "id": "2",
-      "desc": "Upholstered velvet ottoman with antique stud detailing. Invite restrained glamour and on-trend colour into your design scheme with the Eichholtz Ponti Ottoman. Inspired by the neo-classical influences of Italian icon, Gio Ponti, this contemporary ottoman collection is presented in a choice of velvet and linen colourways.",
-      "categoryId": "1",
-      "slug": "Jane-Lauren-Design-Chair",
-      "name": "Jane Lauren Design Chair",
-      "price": "160",
-      "stock": 5,
-      "img": [
-        "src/assets/img/products/product-11-1-270x360.jpg",
-        "src/assets/img/products/product-11-2-270x360.jpg"
-      ]
-    },
     {
       "id": "3",
       "desc": "Upholstered velvet ottoman with antique stud detailing. Invite restrained glamour and on-trend colour into your design scheme with the Eichholtz Ponti Ottoman. Inspired by the neo-classical influences of Italian icon, Gio Ponti, this contemporary ottoman collection is presented in a choice of velvet and linen colourways.",

@@ -48,6 +48,9 @@ function Header() {
                                                 <Link to={"/blog"}>BLOG</Link>
                                             </li>
                                             <li className="has">
+                                                <Link to="/order-tracking">SEARCH ORDER</Link>
+                                            </li>
+                                            <li className="has">
                                             <Link to="/about-us" >ABOUT</Link>
                                             </li>
                                             <li className="has">

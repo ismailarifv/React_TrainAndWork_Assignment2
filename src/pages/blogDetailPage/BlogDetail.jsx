@@ -238,19 +238,7 @@ function BlogDetail() {
                                     {/*=======  blog sidebar  =======*/}
                                     <div className="blog-sidebar-wrapper">
                                         {/*=======  single sidebar widget  =======*/}
-                                        <div className="single-sidebar-widget single-sidebar-widget--extra-space">
-                                            <h2 className="single-sidebar-widget__title single-sidebar-widget__title--extra-space">
-                                                Search
-                                            </h2>
-                                            <div className="sidebar-search">
-                                                <form action="#">
-                                                    <input type="search" placeholder="Search..." />
-                                                    <button type="submit">
-                                                        <i className="fa fa-search" />
-                                                    </button>
-                                                </form>
-                                            </div>
-                                        </div>
+                                      
                                         {/*=======  End of single sidebar widget  =======*/}
                                         {/*=======  single sidebar widget  =======*/}
                                         <div className="single-sidebar-widget">
